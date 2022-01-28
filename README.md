@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
-<img src="{https://github-readme-stats.vercel.app/api?username=cgbas}" />
+<img src="{https://github-readme-stats.vercel.app/api?username={username}" />
